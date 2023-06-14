@@ -127,3 +127,34 @@ What language should I use?
 - Definitely Prepare: Google is a web-based company, and that means they care about scale. Make sure you prepare for scalability questions.
     - Additionally many interviewers will ask questions involving Bit Manipulation, so you are advised to brush up on these topics as well
 - What’s Different: Your interviewers do not make the hiring decision, but rather their feedback is passed to the Hiring Committee.
+
+# Chapter IV. Before the Interview
+
+### Getting the Right Experience
+
+- Actively think about how to enhance your technical (and non-technical) experience
+- For students: Take classes with Big Projects, get an internship, start something
+- For professionals: Shift work responsibilities towards coding and use nights and weekends to build a mobile/web/desktop app to get experience with new technologies
+- It boils down to this: Companies want to see that you’re smart and that you can code
+- Also think in advance where you want your career to go, for example if you want to move into management down the road you should find ways of developing leadership experience.
+
+### Building a Network
+
+- What makes a good network
+    - Broad: A network should be somewhat focused on your own industry (technology), but also cover many industries. Be open to connecting with anyone you meet
+    - Close: It’s much easier to connect with the other people through one of your close friends
+- How to build a strong network
+    - Use websites like [Meetup.com](http://Meetup.com) or use your alumni network to discover events that are relevant to your interests and bring business cards
+    - Be open about your interests and talk to people about theirs
+    - Follow up after events by adding the person on LinkedIn and by emailing them, or even better ask them to meet for coffee
+    - Be helpful, you will be seen as generous and friendly and people will want to help you if you have helped them
+
+### Writing a Great Resume
+
+- Appropriate Length: Keep it to one page
+- Employment History: Prioritize your roles and write strong bullets, preferably with measurable results
+- Projects: Include 2-4 of your most significant projects, what the project was, what technologies it employed, and optionally if it was and group project and if it was for a course.
+- Programming Languages and Software
+    - Software: Do not put familiar with MSOffice, and technical software (e.g. Visual Studio, Linux) can be useful, but usually doesn’t make much of a difference
+    - Languages: List most of the languages you’ve used, but add your experience level
+        - Languages: Javascript (expert), C++ (proficient), Python (prior experience)
