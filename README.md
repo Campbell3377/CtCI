@@ -91,4 +91,41 @@ Should I tell my interviewer if I know a question? - Yes
 
 What language should I use? 
 
-- Recommends Java or C/C++
+- Recommends Java or C/C++\
+
+# Chapter II. Behind The Scenes
+
+---
+
+### The Microsoft Interview
+
+- Typical interview starts with a short interview with a recruiter who is usually there to prep you with a sample question, not too technical. Be nice, your recruiter can be your biggest advocate.
+- During the day you’ll do 4 or 5 interviews, often with two different teams.
+- Definitely Prepare: “Why do you want to work for Microsoft?”
+    - In this question, Microsoft wants to see that you’re passionate about technology.
+    - A great answer might be: “I’ve been using Microsoft software as long as I can remember and I’m really impressed at how Microsoft manages to create a product that is universally excellent. For example, I’ve been using Visual Studio recently to learn game programming, and it’s APIs are excellent.”
+- What’s Unique: You’ll only reach the hiring manager if you’ve done well, so if you do, that’s a good sign
+
+### The Amazon Interview
+
+- Amazon’s recruiting process typically begins with two phone screens in which a candidate interviews with a specific team
+- The engineer who interviews you will usually ask you to write simple code via a shared document editor, such as Collab Edit.
+- They will often ask a broad set of questions to explore what areas of technology you’re familiar with
+- Next, you fly to Seattle for four or five interviews with one or two teams that have selected you based on your resume and phone interviews
+- You will have to code on a whiteboard, and some interviewers will stress other skills.
+- The “bar raiser” interviewer is charged with keeping the interview bar high. This interview will be significantly more difficult
+- Definitely Prepare: Amazon is a web-based company, and that means they care about scale. Make sure you prepare for scalability questions.
+    - You don’t need a background in distributed systems to answer these questions, see the Scalability and Memory Limits chapter for sample questions
+- Additionally, Amazon tends to ask a lot of questions about object-oriented design. Check out the Object-Oriented Design chapter for sample questions and suggestions.
+- What’s Unique: The bar raiser is brought in from a different team, you need to impress both this person and the hiring manager.
+
+### The Google Interview
+
+- A Google engineer performs the first phone screen, so expect tough technical questions, which may involve coding
+- On your on-site interview, you’ll interview with 4-6 people, one of whom will be a lunch interviewer which is less formal and the feedback is not submitted, so the lunch interview is a great opportunity to ask honest questions
+- Interviewers are not given specific focuses or structure so they can conduct the interview however they like
+- Written feedback is submitted to a hiring committee (HC) or engineers and managers. Feedback is typically broken down into four categories (Analytical Ability, Coding, Experience, and Communication) giving an overally score from 1.0-4.0
+- To extend an offer, the HC prefers to see an “enthusiastic endorser”. In other words, a packet with scores of 3.6, 3.1, 3.1, and 2.6 is better than all 3.1’s
+- Definitely Prepare: Google is a web-based company, and that means they care about scale. Make sure you prepare for scalability questions.
+    - Additionally many interviewers will ask questions involving Bit Manipulation, so you are advised to brush up on these topics as well
+- What’s Different: Your interviewers do not make the hiring decision, but rather their feedback is passed to the Hiring Committee.
