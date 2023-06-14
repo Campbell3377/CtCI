@@ -95,8 +95,6 @@ What language should I use?
 
 # Chapter II. Behind The Scenes
 
----
-
 ### The Microsoft Interview
 
 - Typical interview starts with a short interview with a recruiter who is usually there to prep you with a sample question, not too technical. Be nice, your recruiter can be your biggest advocate.
